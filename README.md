@@ -1,5 +1,5 @@
 # Parsing-Json-file
-Here, i parse a json file using the Cjson library : https://github.com/DaveGamble/cJSON
+Here, i parse any json file using the Cjson library : https://github.com/DaveGamble/cJSON
 
 
 To execute the program use:
